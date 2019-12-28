@@ -1,4 +1,3 @@
-
-function my() {
-    return 0;
+function solve(h, a ,b) {
+    return (h* (a + b));
 }
